@@ -13,6 +13,7 @@ ____
 :white_check_mark: - **day_2**: ```Архитектура: вид процессора с точки зрения программиста. Упражнения на симуляторе на уровне инструкций RARS. 16.09.2022```
 + Yandex disk: https://disk.yandex.ru/d/RDoKKMk_g4QBrw
 + Требуется установка java jre/jdk.  win установщик последней версии: https://disk.yandex.ru/d/Fh9obaB71tMA3Q.
++ На Ubuntu: sudo apt-get install openjdk-8-jre
 + _Доп.материалы к занятию: https://disk.yandex.ru/d/Epmk_EjsGL4eWw_
 + _Доп. ссылки для скачивания инструментов сборки и дизассемблирования: https://syntacore.com/page/products/sw-tools_
 ____
