@@ -1,0 +1,81 @@
+$date
+	Wed Sep 14 11:37:01 2022
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module tb $end
+$var reg 4 ! key_sw [3:0] $end
+$scope module i_top $end
+$var wire 1 " a $end
+$var wire 8 # abcdefgh [7:0] $end
+$var wire 1 $ b $end
+$var wire 1 % buzzer $end
+$var wire 1 & clk $end
+$var wire 4 ' digit [3:0] $end
+$var wire 1 ( hsync $end
+$var wire 4 ) key_sw [3:0] $end
+$var wire 1 * reset_n $end
+$var wire 1 + result $end
+$var wire 3 , rgb [2:0] $end
+$var wire 1 - vsync $end
+$var wire 4 . led [3:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b0xx .
+1-
+b0 ,
+x+
+z*
+bx )
+1(
+b1111 '
+z&
+0%
+x$
+b11111111 #
+x"
+bx !
+$end
+#10
+b11 .
+0+
+1"
+1$
+b100 !
+b100 )
+#20
+b0 .
+1+
+0"
+b1 !
+b1 )
+#30
+b1001 !
+b1001 )
+#40
+b11 .
+0+
+0$
+b11 !
+b11 )
+#50
+b0 .
+1+
+1$
+b1101 !
+b1101 )
+#70
+b101 !
+b101 )
+#80
+1"
+0$
+b10 !
+b10 )
