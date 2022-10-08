@@ -26,4 +26,14 @@ ____
 + win установщик Icarus 11.0: https://disk.yandex.ru/d/YF9rduGAVGioEA.  На Ubuntu 22.04 : sudo apt install iverilog gtkwave.
 + win/Ubuntu установщики Quartus 21.1 :  https://disk.yandex.ru/d/CSn1xlo5QHj-HA
 + Инструкции по установке ПО: installation_instruction.pdf в репозитории git
++ Описание структуры каталога с лабораторными в installation_instruction.pdf
+____
+:black_square_button: -**day_5**: 
+```Концепция конечного автомата на ПЛИС: от распознавания последовательностей до компьютерной игры. 08.10.2022```
++ Требуется установка Quartus 21.1 и icarus verilog версии 11.0. (При наличии платы так же необходимо установить драйвер USB-BLASTER)
++ Yandex disk папки с лабораторными: https://disk.yandex.ru/d/_KyTcb9fO7AJTQ.
++ win установщик Icarus 11.0: https://disk.yandex.ru/d/YF9rduGAVGioEA.  На Ubuntu 22.04 : sudo apt install iverilog gtkwave.
++ win/Ubuntu установщики Quartus 21.1 :  https://disk.yandex.ru/d/CSn1xlo5QHj-HA
++ Инструкции по установке ПО: installation_instruction.pdf в репозитории git
++ Описание структуры каталога с лабораторными в installation_instruction.pdf
 ____
