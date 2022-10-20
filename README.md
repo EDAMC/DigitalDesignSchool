@@ -38,8 +38,7 @@ ____
 + Инструкции по установке ПО: installation_instruction.pdf в репозитории git
 + Описание структуры каталога с лабораторными в installation_instruction.pdf
 ____
-____
-:black_square_button: -**day_6**: 
+:white_check_mark: -**day_6**: 
 ```Модуль приема уровня звука с микрофона.  14.10.2022```
 + Требуется установка Quartus 21.1 и icarus verilog версии 11.0. (При наличии платы так же необходимо установить драйвер USB-BLASTER)
 + win/Ubuntu установщики Quartus 21.1 :  https://disk.yandex.ru/d/CSn1xlo5QHj-HA
@@ -48,3 +47,6 @@ ____
 + Инструкции по установке ПО: installation_instruction.pdf в репозитории git
 + Описание структуры каталога с лабораторными в installation_instruction.pdf
 ____
+:black_square_button: -**day_7**: 
+```OpenLane.  22.10.2022```
++ Ya.Disk с инструкциями и виртуальной машиной: https://disk.yandex.ru/d/d4R6BdIcmV78TQ
