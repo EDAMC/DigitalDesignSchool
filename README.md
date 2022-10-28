@@ -48,6 +48,9 @@ ____
 + Инструкции по установке ПО: installation_instruction.pdf в репозитории git
 + Описание структуры каталога с лабораторными в installation_instruction.pdf
 ____
-:black_square_button: -**day_7**: 
+:white_check_mark: -**day_7**: 
 ```Система проектирования OpenLane.  22.10.2022```
 + Ya.Disk с инструкциями и виртуальной машиной: https://disk.yandex.ru/d/fA1sQncc5wWfcw
+____
+:black_square_button: -**day_8**: 
+```Микроархитектура однотактового процессора SCHOOLRISCV. 29.10.2022```
