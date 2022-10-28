@@ -54,3 +54,4 @@ ____
 ____
 :black_square_button: -**day_8**: 
 ```Микроархитектура однотактового процессора SCHOOLRISCV. 29.10.2022```
++ Основной репозиторий SCHOOLRISCV: https://github.com/zhelnio/schoolRISCV
