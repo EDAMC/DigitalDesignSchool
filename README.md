@@ -55,3 +55,12 @@ ____
 :black_square_button: -**day_8**: 
 ```Микроархитектура однотактового процессора SCHOOLRISCV. 29.10.2022```
 + Основной репозиторий SCHOOLRISCV: https://github.com/zhelnio/schoolRISCV
++ Требуется установка java jre/jdk 8 версии или новее для использования симулятора RARS.  
++ win установщик последней версии jre: https://disk.yandex.ru/d/Fh9obaB71tMA3Q
++ На Ubuntu: sudo apt-get install openjdk-8-jre
++ Требуется установка Quartus 21.1 (При наличии платы так же необходимо установить драйвер USB-BLASTER)
++ win/Ubuntu установщики Quartus 21.1 :  https://disk.yandex.ru/d/CSn1xlo5QHj-HA
++ Для симуляции необходим Icarus Verilog
++ win установщик Icarus 11.0: https://disk.yandex.ru/d/YF9rduGAVGioEA
++ На Ubuntu 22.04 : sudo apt install iverilog gtkwave.
++ Для работы с Makefile на Ubuntu: sudo apt install make
