@@ -52,7 +52,7 @@ ____
 ```Система проектирования OpenLane.  22.10.2022```
 + Ya.Disk с инструкциями и виртуальной машиной: https://disk.yandex.ru/d/fA1sQncc5wWfcw
 ____
-:black_square_button: -**day_8**: 
+:white_check_mark: -**day_8**: 
 ```Микроархитектура однотактового процессора SCHOOLRISCV. 29.10.2022```
 + Основной репозиторий SCHOOLRISCV: https://github.com/zhelnio/schoolRISCV
 + Требуется установка java jre/jdk 8 версии или новее для использования симулятора RARS.  
