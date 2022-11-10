@@ -64,3 +64,11 @@ ____
 + win установщик Icarus 11.0: https://disk.yandex.ru/d/YF9rduGAVGioEA
 + На Ubuntu 22.04 : sudo apt install iverilog gtkwave.
 + Для работы с Makefile на Ubuntu: sudo apt install make
+___
+:black_square_button: -**day_9**: 
+```Арбитры и разделение памяти между несколькими процессорными ядрами. 12.11.2022```
++ Занятие предполагает использование ОС Linux
++ На win: Есть готовая виртуальная машина с Quartus, ModelSim, VSCode и инструкции по установке: https://disk.yandex.ru/d/CFoJ0K1WMLTnIA
++ На Linux: Необходимо установить ModelSim, VSCode с расширением TerosHDL.
++ Установщик ModelSim последней версии : https://disk.yandex.ru/d/zuN-mJTungHEDg
++ VsCode можно скачать с оф.сайта: https://code.visualstudio.com/
