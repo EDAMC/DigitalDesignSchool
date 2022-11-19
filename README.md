@@ -65,7 +65,7 @@ ____
 + На Ubuntu 22.04 : sudo apt install iverilog gtkwave.
 + Для работы с Makefile на Ubuntu: sudo apt install make
 ___
-:black_square_button: -**day_9**: 
+:white_check_mark: -**day_9**: 
 ```Арбитры и разделение памяти между несколькими процессорными ядрами. 12.11.2022```
 + Занятие предполагает использование ОС Linux
 + На win: Есть готовая виртуальная машина с Quartus, ModelSim, VSCode и инструкции по установке: https://disk.yandex.ru/d/CFoJ0K1WMLTnIA
@@ -85,3 +85,7 @@ ___
         ./*.run
         ```
 + VsCode можно скачать с оф.сайта: https://code.visualstudio.com/
+:black_square_button: -**day_10**: 
+```Операции с плавающей точкой. Буферы FIFO. 19.11.2022```
+
+
