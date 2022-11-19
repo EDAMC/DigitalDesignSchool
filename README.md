@@ -85,6 +85,7 @@ ___
         ./*.run
         ```
 + VsCode можно скачать с оф.сайта: https://code.visualstudio.com/
+___
 :black_square_button: -**day_10**: 
 ```Операции с плавающей точкой. Буферы FIFO. 19.11.2022```
 
