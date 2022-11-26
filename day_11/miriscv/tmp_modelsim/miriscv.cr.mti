@@ -1,0 +1,268 @@
+C:/Users/Olmer/Documents/miriscv/tb/tb_mirscv_test_soc.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/Olmer/Documents/miriscv/tb/tb_mirscv_test_soc.sv
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module tb_miriscv_test_soc
+-- Importing package miriscv_pkg
+
+Top level modules:
+	tb_miriscv_test_soc
+
+} {} {}} C:/Users/Olmer/Documents/miriscv/rtl/miriscv_lsu.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/Olmer/Documents/miriscv/rtl/miriscv_lsu.sv
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module miriscv_lsu
+-- Importing package miriscv_pkg
+-- Importing package miriscv_lsu_pkg
+
+Top level modules:
+	miriscv_lsu
+
+} {} {}} C:/Users/Olmer/Documents/miriscv/testsoc/apb_uart/uart_interrupt.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none C:/Users/Olmer/Documents/miriscv/testsoc/apb_uart/uart_interrupt.vhd
+Model Technology ModelSim SE-64 vcom 10.6d Compiler 2018.02 Feb 24 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity uart_interrupt
+-- Compiling architecture rtl of uart_interrupt
+
+} {} {}} C:/Users/Olmer/Documents/miriscv/rtl/miriscv_decoder.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/Olmer/Documents/miriscv/rtl/miriscv_decoder.sv
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module miriscv_decoder
+-- Importing package miriscv_pkg
+-- Importing package miriscv_opcodes_pkg
+-- Importing package miriscv_alu_pkg
+-- Importing package miriscv_mdu_pkg
+-- Importing package miriscv_decode_pkg
+
+Top level modules:
+	miriscv_decoder
+
+} {} {}} C:/Users/Olmer/Documents/miriscv/testsoc/apb_uart/slib_counter.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none C:/Users/Olmer/Documents/miriscv/testsoc/apb_uart/slib_counter.vhd
+Model Technology ModelSim SE-64 vcom 10.6d Compiler 2018.02 Feb 24 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity slib_counter
+-- Compiling architecture rtl of slib_counter
+
+} {} {}} C:/Users/Olmer/Documents/miriscv/testsoc/apb_uart/slib_mv_filter.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none C:/Users/Olmer/Documents/miriscv/testsoc/apb_uart/slib_mv_filter.vhd
+Model Technology ModelSim SE-64 vcom 10.6d Compiler 2018.02 Feb 24 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity slib_mv_filter
+-- Compiling architecture rtl of slib_mv_filter
+
+} {} {}} C:/Users/Olmer/Documents/miriscv/testsoc/apb_uart/uart_baudgen.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none C:/Users/Olmer/Documents/miriscv/testsoc/apb_uart/uart_baudgen.vhd
+Model Technology ModelSim SE-64 vcom 10.6d Compiler 2018.02 Feb 24 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity uart_baudgen
+-- Compiling architecture rtl of uart_baudgen
+
+} {} {}} C:/Users/Olmer/Documents/miriscv/rtl/miriscv_decode_stage.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/Olmer/Documents/miriscv/rtl/miriscv_decode_stage.sv
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module miriscv_decode_stage
+-- Importing package miriscv_pkg
+-- Importing package miriscv_gpr_pkg
+-- Importing package miriscv_decode_pkg
+-- Importing package miriscv_opcodes_pkg
+-- Importing package miriscv_alu_pkg
+
+Top level modules:
+	miriscv_decode_stage
+
+} {} {}} C:/Users/Olmer/Documents/miriscv/rtl/miriscv_signextend.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/Olmer/Documents/miriscv/rtl/miriscv_signextend.sv
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module miriscv_signextend
+
+Top level modules:
+	miriscv_signextend
+
+} {} {}} C:/Users/Olmer/Documents/miriscv/rtl/miriscv_gpr.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/Olmer/Documents/miriscv/rtl/miriscv_gpr.sv
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module miriscv_gpr
+-- Importing package miriscv_pkg
+-- Importing package miriscv_gpr_pkg
+
+Top level modules:
+	miriscv_gpr
+
+} {} {}} C:/Users/Olmer/Documents/miriscv/rtl/miriscv_core.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/Olmer/Documents/miriscv/rtl/miriscv_core.sv
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module miriscv_core
+-- Importing package miriscv_pkg
+-- Importing package miriscv_gpr_pkg
+
+Top level modules:
+	miriscv_core
+
+} {} {}} C:/Users/Olmer/Documents/miriscv/rtl/miriscv_rvfi_controller.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/Olmer/Documents/miriscv/rtl/miriscv_rvfi_controller.sv
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module miriscv_rvfi_controller
+-- Importing package miriscv_pkg
+-- Importing package miriscv_gpr_pkg
+-- Importing package miriscv_decode_pkg
+
+Top level modules:
+	miriscv_rvfi_controller
+
+} {} {}} C:/Users/Olmer/Documents/miriscv/rtl/miriscv_alu.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/Olmer/Documents/miriscv/rtl/miriscv_alu.sv
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module miriscv_alu
+-- Importing package miriscv_pkg
+-- Importing package miriscv_alu_pkg
+
+Top level modules:
+	miriscv_alu
+
+} {} {}} C:/Users/Olmer/Documents/miriscv/testsoc/apb_uart/slib_fifo.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none C:/Users/Olmer/Documents/miriscv/testsoc/apb_uart/slib_fifo.vhd
+Model Technology ModelSim SE-64 vcom 10.6d Compiler 2018.02 Feb 24 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity slib_fifo
+-- Compiling architecture rtl of slib_fifo
+
+} {} {}} C:/Users/Olmer/Documents/miriscv/testsoc/apb_uart/slib_input_filter.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none C:/Users/Olmer/Documents/miriscv/testsoc/apb_uart/slib_input_filter.vhd
+Model Technology ModelSim SE-64 vcom 10.6d Compiler 2018.02 Feb 24 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity slib_input_filter
+-- Compiling architecture rtl of slib_input_filter
+
+} {} {}} C:/Users/Olmer/Documents/miriscv/rtl/miriscv_div.sv {2 {vlog -work work -vopt -sv -stats=none C:/Users/Olmer/Documents/miriscv/rtl/miriscv_div.sv
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module miriscv_div
+-- Importing package miriscv_pkg
+-- Importing package miriscv_mdu_pkg
+** Warning: C:/Users/Olmer/Documents/miriscv/rtl/miriscv_div.sv(167): (vlog-2583) [SVCHK] - Some checking for conflicts with always_comb and always_latch variables not yet supported. Run vopt to provide additional design-level checks.
+** Warning: C:/Users/Olmer/Documents/miriscv/rtl/miriscv_div.sv(168): (vlog-2583) [SVCHK] - Some checking for conflicts with always_comb and always_latch variables not yet supported. Run vopt to provide additional design-level checks.
+** Warning: C:/Users/Olmer/Documents/miriscv/rtl/miriscv_div.sv(172): (vlog-2583) [SVCHK] - Some checking for conflicts with always_comb and always_latch variables not yet supported. Run vopt to provide additional design-level checks.
+** Warning: C:/Users/Olmer/Documents/miriscv/rtl/miriscv_div.sv(173): (vlog-2583) [SVCHK] - Some checking for conflicts with always_comb and always_latch variables not yet supported. Run vopt to provide additional design-level checks.
+** Warning: C:/Users/Olmer/Documents/miriscv/rtl/miriscv_div.sv(174): (vlog-2583) [SVCHK] - Some checking for conflicts with always_comb and always_latch variables not yet supported. Run vopt to provide additional design-level checks.
+** Warning: C:/Users/Olmer/Documents/miriscv/rtl/miriscv_div.sv(178): (vlog-2583) [SVCHK] - Some checking for conflicts with always_comb and always_latch variables not yet supported. Run vopt to provide additional design-level checks.
+** Warning: C:/Users/Olmer/Documents/miriscv/rtl/miriscv_div.sv(179): (vlog-2583) [SVCHK] - Some checking for conflicts with always_comb and always_latch variables not yet supported. Run vopt to provide additional design-level checks.
+** Warning: C:/Users/Olmer/Documents/miriscv/rtl/miriscv_div.sv(180): (vlog-2583) [SVCHK] - Some checking for conflicts with always_comb and always_latch variables not yet supported. Run vopt to provide additional design-level checks.
+** Warning: C:/Users/Olmer/Documents/miriscv/rtl/miriscv_div.sv(185): (vlog-2583) [SVCHK] - Some checking for conflicts with always_comb and always_latch variables not yet supported. Run vopt to provide additional design-level checks.
+** Warning: C:/Users/Olmer/Documents/miriscv/rtl/miriscv_div.sv(186): (vlog-2583) [SVCHK] - Some checking for conflicts with always_comb and always_latch variables not yet supported. Run vopt to provide additional design-level checks.
+** Warning: C:/Users/Olmer/Documents/miriscv/rtl/miriscv_div.sv(187): (vlog-2583) [SVCHK] - Some checking for conflicts with always_comb and always_latch variables not yet supported. Run vopt to provide additional design-level checks.
+
+Top level modules:
+	miriscv_div
+
+} {} {}} C:/Users/Olmer/Documents/miriscv/testsoc/miriscv_ram.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/Olmer/Documents/miriscv/testsoc/miriscv_ram.sv
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module miriscv_ram
+
+Top level modules:
+	miriscv_ram
+
+} {} {}} C:/Users/Olmer/Documents/miriscv/testsoc/apb_uart/slib_clock_div.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none C:/Users/Olmer/Documents/miriscv/testsoc/apb_uart/slib_clock_div.vhd
+Model Technology ModelSim SE-64 vcom 10.6d Compiler 2018.02 Feb 24 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity slib_clock_div
+-- Compiling architecture rtl of slib_clock_div
+
+} {} {}} C:/Users/Olmer/Documents/miriscv/testsoc/apb_timer/apb_timer.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/Olmer/Documents/miriscv/testsoc/apb_timer/apb_timer.sv
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module apb_timer
+
+Top level modules:
+	apb_timer
+
+} {} {}} C:/Users/Olmer/Documents/miriscv/testsoc/apb_uart/uart_receiver.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none C:/Users/Olmer/Documents/miriscv/testsoc/apb_uart/uart_receiver.vhd
+Model Technology ModelSim SE-64 vcom 10.6d Compiler 2018.02 Feb 24 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity uart_receiver
+-- Compiling architecture rtl of uart_receiver
+
+} {} {}} C:/Users/Olmer/Documents/miriscv/testsoc/apb_uart/uart_transmitter.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none C:/Users/Olmer/Documents/miriscv/testsoc/apb_uart/uart_transmitter.vhd
+Model Technology ModelSim SE-64 vcom 10.6d Compiler 2018.02 Feb 24 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity uart_transmitter
+-- Compiling architecture rtl of uart_transmitter
+
+} {} {}} C:/Users/Olmer/Documents/miriscv/rtl/miriscv_fetch_stage.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/Olmer/Documents/miriscv/rtl/miriscv_fetch_stage.sv
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module miriscv_fetch_stage
+-- Importing package miriscv_pkg
+
+Top level modules:
+	miriscv_fetch_stage
+
+} {} {}} C:/Users/Olmer/Documents/miriscv/rtl/miriscv_mdu.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/Olmer/Documents/miriscv/rtl/miriscv_mdu.sv
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module miriscv_mdu
+-- Importing package miriscv_pkg
+-- Importing package miriscv_mdu_pkg
+
+Top level modules:
+	miriscv_mdu
+
+} {} {}} C:/Users/Olmer/Documents/miriscv/testsoc/miriscv_test_soc.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/Olmer/Documents/miriscv/testsoc/miriscv_test_soc.sv
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module miriscv_test_soc
+-- Importing package miriscv_pkg
+
+Top level modules:
+	miriscv_test_soc
+
+} {} {}} C:/Users/Olmer/Documents/miriscv/rtl/miriscv_fetch_unit.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/Olmer/Documents/miriscv/rtl/miriscv_fetch_unit.sv
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module miriscv_fetch_unit
+-- Importing package miriscv_pkg
+
+Top level modules:
+	miriscv_fetch_unit
+
+} {} {}} C:/Users/Olmer/Documents/miriscv/testsoc/apb_uart/slib_input_sync.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none C:/Users/Olmer/Documents/miriscv/testsoc/apb_uart/slib_input_sync.vhd
+Model Technology ModelSim SE-64 vcom 10.6d Compiler 2018.02 Feb 24 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity slib_input_sync
+-- Compiling architecture rtl of slib_input_sync
+
+} {} {}} C:/Users/Olmer/Documents/miriscv/testsoc/apb_timer/timer.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/Olmer/Documents/miriscv/testsoc/apb_timer/timer.sv
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module timer
+
+Top level modules:
+	timer
+
+} {} {}} C:/Users/Olmer/Documents/miriscv/testsoc/apb_uart/slib_edge_detect.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none C:/Users/Olmer/Documents/miriscv/testsoc/apb_uart/slib_edge_detect.vhd
+Model Technology ModelSim SE-64 vcom 10.6d Compiler 2018.02 Feb 24 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity slib_edge_detect
+-- Compiling architecture rtl of slib_edge_detect
+
+} {} {}} C:/Users/Olmer/Documents/miriscv/testsoc/apb_uart/apb_uart.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none C:/Users/Olmer/Documents/miriscv/testsoc/apb_uart/apb_uart.vhd
+Model Technology ModelSim SE-64 vcom 10.6d Compiler 2018.02 Feb 24 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity apb_uart
+-- Compiling architecture rtl of apb_uart
+
+} {} {}}

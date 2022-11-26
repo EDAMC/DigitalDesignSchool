@@ -1,0 +1,1166 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/modeltech64_10.6d/win64
+T_opt
+!s110 1669441001
+VO<bN_IJ_B]e8DInH4jLKa0
+04 16 4 work miriscv_test_soc fast 0
+=1-28d0ea8326e2-6381a5e9-7b-16a0
+Z1 o-quiet -auto_acc_if_foreign -work work
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;10.6d;65
+R0
+T_opt1
+!s110 1669441076
+VoC2MQJd1N^d9BaGMRXfEj3
+04 19 4 work tb_miriscv_test_soc fast 0
+=1-28d0ea8326e2-6381a633-3e7-3268
+R1
+R2
+n@_opt1
+R3
+R0
+vapb_timer
+Z4 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 d6j>dmne`P4ah?>Ehki5f0
+I7zof59:NeQSXZ@X?L=Hj;2
+!s105 apb_timer_sv_unit
+S1
+Z6 dC:/Users/Olmer/Documents/miriscv/tmp_modelsim
+Z7 w1652475710
+8C:/Users/Olmer/Documents/miriscv/testsoc/apb_timer/apb_timer.sv
+FC:/Users/Olmer/Documents/miriscv/testsoc/apb_timer/apb_timer.sv
+Z8 L0 12
+Z9 OL;L;10.6d;65
+Z10 !s108 1669446824.000000
+!s107 C:/Users/Olmer/Documents/miriscv/testsoc/apb_timer/apb_timer.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/Olmer/Documents/miriscv/testsoc/apb_timer/apb_timer.sv|
+!i113 0
+Z11 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+Eapb_uart
+R7
+Z12 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z13 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z14 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R6
+Z15 8C:/Users/Olmer/Documents/miriscv/testsoc/apb_uart/apb_uart.vhd
+Z16 FC:/Users/Olmer/Documents/miriscv/testsoc/apb_uart/apb_uart.vhd
+l0
+L37
+V8`1jK>EfR@9mk:H=ZIGkT3
+!s100 [2<fo8f[TDYRZQm55o0N93
+Z17 OL;C;10.6d;65
+32
+Z18 !s110 1669446824
+!i10b 1
+Z19 !s108 1669446823.000000
+Z20 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/Olmer/Documents/miriscv/testsoc/apb_uart/apb_uart.vhd|
+Z21 !s107 C:/Users/Olmer/Documents/miriscv/testsoc/apb_uart/apb_uart.vhd|
+!i113 0
+Z22 o-work work -2002 -explicit
+Z23 tExplicit 1 CvgOpt 0
+Artl
+R12
+R13
+R14
+DEx4 work 8 apb_uart 0 22 8`1jK>EfR@9mk:H=ZIGkT3
+32
+R18
+l374
+L66
+Vi0^F[gc?m;gK8]WDcfoRZ0
+!s100 `=W:P[hagAF33`Q33f^FW3
+R17
+!i10b 1
+R19
+R20
+R21
+!i113 0
+R22
+R23
+vmiriscv_alu
+R4
+Z24 DXx4 work 11 miriscv_pkg 0 22 Y@S>?l^2bS>B5[WUzBSIZ1
+Z25 DXx4 work 15 miriscv_alu_pkg 0 22 0dI=M`9oHA1i60=_^jBSW2
+R5
+r1
+!s85 0
+31
+!i10b 1
+!s100 lPJ4cJ2iF95Ba0;9L[@P[3
+If;hZI>bZ^7VVojWEb>RO92
+!s105 miriscv_alu_sv_unit
+S1
+R6
+R7
+8C:/Users/Olmer/Documents/miriscv/rtl/miriscv_alu.sv
+FC:/Users/Olmer/Documents/miriscv/rtl/miriscv_alu.sv
+Z26 L0 11
+R9
+R10
+!s107 C:/Users/Olmer/Documents/miriscv/rtl/miriscv_alu.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/Olmer/Documents/miriscv/rtl/miriscv_alu.sv|
+!i113 0
+R11
+R2
+Xmiriscv_alu_pkg
+R4
+V0dI=M`9oHA1i60=_^jBSW2
+r1
+!s85 0
+31
+!i10b 1
+!s100 0gFXoiA23COhSGh:eZA>K2
+I0dI=M`9oHA1i60=_^jBSW2
+S1
+R6
+R7
+8C:/Users/Olmer/Documents/miriscv/rtl/include/miriscv_alu_pkg.sv
+FC:/Users/Olmer/Documents/miriscv/rtl/include/miriscv_alu_pkg.sv
+R26
+R9
+Z27 !s108 1669440879.000000
+!s107 C:/Users/Olmer/Documents/miriscv/rtl/include/miriscv_alu_pkg.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/Olmer/Documents/miriscv/rtl/include/miriscv_alu_pkg.sv|
+!i113 0
+R11
+R2
+vmiriscv_core
+R4
+R24
+Z28 DXx4 work 15 miriscv_gpr_pkg 0 22 ]A9lK3Bch@3Xn7P^_F_Bc3
+R5
+r1
+!s85 0
+31
+!i10b 1
+!s100 Gb4hbR:UGK969l<28DUO=3
+ICk5g30lmLT=F^I8Sclc@02
+!s105 miriscv_core_sv_unit
+S1
+R6
+R7
+8C:/Users/Olmer/Documents/miriscv/rtl/miriscv_core.sv
+FC:/Users/Olmer/Documents/miriscv/rtl/miriscv_core.sv
+Z29 L0 13
+R9
+R10
+!s107 C:/Users/Olmer/Documents/miriscv/rtl/miriscv_core.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/Olmer/Documents/miriscv/rtl/miriscv_core.sv|
+!i113 0
+R11
+R2
+Xmiriscv_csr_pkg
+R4
+Z30 !s110 1669440879
+!i10b 1
+!s100 a0FZCnWUT=0:?Ob>AKibM3
+I@k1RD:3G6GMVF:>4cR:SI2
+V@k1RD:3G6GMVF:>4cR:SI2
+S1
+R6
+R7
+8C:/Users/Olmer/Documents/miriscv/rtl/include/miriscv_csr_pkg.sv
+FC:/Users/Olmer/Documents/miriscv/rtl/include/miriscv_csr_pkg.sv
+R26
+R9
+r1
+!s85 0
+31
+R27
+!s107 C:/Users/Olmer/Documents/miriscv/rtl/include/miriscv_csr_pkg.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/Olmer/Documents/miriscv/rtl/include/miriscv_csr_pkg.sv|
+!i113 0
+R11
+R2
+Xmiriscv_cu_pkg
+R4
+R30
+!i10b 1
+!s100 ^fXoI28[?EPFm5h=nnkk41
+IkOYaT2;=L<ne903ifoFoI1
+VkOYaT2;=L<ne903ifoFoI1
+S1
+R6
+R7
+8C:/Users/Olmer/Documents/miriscv/rtl/include/miriscv_cu_pkg.sv
+FC:/Users/Olmer/Documents/miriscv/rtl/include/miriscv_cu_pkg.sv
+R26
+R9
+r1
+!s85 0
+31
+R27
+!s107 C:/Users/Olmer/Documents/miriscv/rtl/include/miriscv_cu_pkg.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/Olmer/Documents/miriscv/rtl/include/miriscv_cu_pkg.sv|
+!i113 0
+R11
+R2
+Xmiriscv_decode_pkg
+R4
+V;28Z^2hGRQz3@3hNQKP[f2
+r1
+!s85 0
+31
+!i10b 1
+!s100 HE;_0hTMV<^bFd100QQO:1
+I;28Z^2hGRQz3@3hNQKP[f2
+S1
+R6
+R7
+8C:/Users/Olmer/Documents/miriscv/rtl/include/miriscv_decode_pkg.sv
+FC:/Users/Olmer/Documents/miriscv/rtl/include/miriscv_decode_pkg.sv
+R26
+R9
+R27
+!s107 C:/Users/Olmer/Documents/miriscv/rtl/include/miriscv_decode_pkg.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/Olmer/Documents/miriscv/rtl/include/miriscv_decode_pkg.sv|
+!i113 0
+R11
+R2
+vmiriscv_decode_stage
+R4
+R24
+R28
+Z31 DXx4 work 18 miriscv_decode_pkg 0 22 ;28Z^2hGRQz3@3hNQKP[f2
+Z32 DXx4 work 19 miriscv_opcodes_pkg 0 22 0nF1jM@1=S9<gJ>`>ADEW0
+R25
+R5
+r1
+!s85 0
+31
+!i10b 1
+!s100 AeFfHFSIHfnN?271DX6600
+IcG3VnRB[;_2eGTRUPo[zQ2
+!s105 miriscv_decode_stage_sv_unit
+S1
+R6
+w1652478585
+8C:/Users/Olmer/Documents/miriscv/rtl/miriscv_decode_stage.sv
+FC:/Users/Olmer/Documents/miriscv/rtl/miriscv_decode_stage.sv
+R26
+R9
+R10
+!s107 C:/Users/Olmer/Documents/miriscv/rtl/miriscv_decode_stage.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/Olmer/Documents/miriscv/rtl/miriscv_decode_stage.sv|
+!i113 0
+R11
+R2
+vmiriscv_decoder
+R4
+R24
+R32
+R25
+Z33 DXx4 work 15 miriscv_mdu_pkg 0 22 jf6J0Tnmz0Jzz4fIf^;Tg0
+R31
+R5
+r1
+!s85 0
+31
+!i10b 1
+!s100 14SKaV7YfYO_9Q=IXkg3f2
+Ih^Z>B:0UeJ[NThbLn82M80
+!s105 miriscv_decoder_sv_unit
+S1
+R6
+R7
+8C:/Users/Olmer/Documents/miriscv/rtl/miriscv_decoder.sv
+FC:/Users/Olmer/Documents/miriscv/rtl/miriscv_decoder.sv
+R26
+R9
+R10
+!s107 C:/Users/Olmer/Documents/miriscv/rtl/miriscv_decoder.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/Olmer/Documents/miriscv/rtl/miriscv_decoder.sv|
+!i113 0
+R11
+R2
+vmiriscv_div
+R4
+R24
+R33
+R5
+r1
+!s85 0
+31
+!i10b 1
+!s100 =N8ekdA[MJ`HJ7cEV8hCC1
+I`3^E?o7oF6Y>fO==IA^ac3
+!s105 miriscv_div_sv_unit
+S1
+R6
+R7
+8C:/Users/Olmer/Documents/miriscv/rtl/miriscv_div.sv
+FC:/Users/Olmer/Documents/miriscv/rtl/miriscv_div.sv
+R26
+R9
+R10
+!s107 C:/Users/Olmer/Documents/miriscv/rtl/miriscv_div.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/Olmer/Documents/miriscv/rtl/miriscv_div.sv|
+!i113 0
+R11
+R2
+vmiriscv_fetch_stage
+R4
+R24
+R5
+r1
+!s85 0
+31
+!i10b 1
+!s100 _dZAFG^DFiHKjjG<ln;?M1
+I3:oT]LV0RElKI973RT5DI2
+!s105 miriscv_fetch_stage_sv_unit
+S1
+R6
+R7
+8C:/Users/Olmer/Documents/miriscv/rtl/miriscv_fetch_stage.sv
+FC:/Users/Olmer/Documents/miriscv/rtl/miriscv_fetch_stage.sv
+R26
+R9
+R10
+!s107 C:/Users/Olmer/Documents/miriscv/rtl/miriscv_fetch_stage.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/Olmer/Documents/miriscv/rtl/miriscv_fetch_stage.sv|
+!i113 0
+R11
+R2
+vmiriscv_fetch_unit
+R4
+R24
+R5
+r1
+!s85 0
+31
+!i10b 1
+!s100 jBH@B[Wb0IUGhGSKC1WS_1
+IS8Y?i[8Rb0Va6?=j@mX4d2
+!s105 miriscv_fetch_unit_sv_unit
+S1
+R6
+R7
+8C:/Users/Olmer/Documents/miriscv/rtl/miriscv_fetch_unit.sv
+FC:/Users/Olmer/Documents/miriscv/rtl/miriscv_fetch_unit.sv
+R26
+R9
+R10
+!s107 C:/Users/Olmer/Documents/miriscv/rtl/miriscv_fetch_unit.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/Olmer/Documents/miriscv/rtl/miriscv_fetch_unit.sv|
+!i113 0
+R11
+R2
+vmiriscv_gpr
+R4
+R24
+R28
+R5
+r1
+!s85 0
+31
+!i10b 1
+!s100 `fd@0AcT5ThS8TPge6:SW0
+I^NDED[fhBHf3I397<nO3@2
+!s105 miriscv_gpr_sv_unit
+S1
+R6
+R7
+8C:/Users/Olmer/Documents/miriscv/rtl/miriscv_gpr.sv
+FC:/Users/Olmer/Documents/miriscv/rtl/miriscv_gpr.sv
+R8
+R9
+R10
+!s107 C:/Users/Olmer/Documents/miriscv/rtl/miriscv_gpr.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/Olmer/Documents/miriscv/rtl/miriscv_gpr.sv|
+!i113 0
+R11
+R2
+Xmiriscv_gpr_pkg
+R4
+V]A9lK3Bch@3Xn7P^_F_Bc3
+r1
+!s85 0
+31
+!i10b 1
+!s100 0`0a1F51UoB7dCeUB0<d<3
+I]A9lK3Bch@3Xn7P^_F_Bc3
+S1
+R6
+R7
+8C:/Users/Olmer/Documents/miriscv/rtl/include/miriscv_gpr_pkg.sv
+FC:/Users/Olmer/Documents/miriscv/rtl/include/miriscv_gpr_pkg.sv
+R26
+R9
+R27
+!s107 C:/Users/Olmer/Documents/miriscv/rtl/include/miriscv_gpr_pkg.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/Olmer/Documents/miriscv/rtl/include/miriscv_gpr_pkg.sv|
+!i113 0
+R11
+R2
+Xmiriscv_intsr_decomp_pkg
+R4
+R30
+!i10b 1
+!s100 Whi5D2aiQD]>>7>26]Yac1
+I4n=O5KVeB9fg:n>3UAVI63
+V4n=O5KVeB9fg:n>3UAVI63
+S1
+R6
+R7
+8C:/Users/Olmer/Documents/miriscv/rtl/include/miriscv_instr_decomp_pkg.sv
+FC:/Users/Olmer/Documents/miriscv/rtl/include/miriscv_instr_decomp_pkg.sv
+R26
+R9
+r1
+!s85 0
+31
+R27
+!s107 C:/Users/Olmer/Documents/miriscv/rtl/include/miriscv_instr_decomp_pkg.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/Olmer/Documents/miriscv/rtl/include/miriscv_instr_decomp_pkg.sv|
+!i113 0
+R11
+R2
+vmiriscv_lsu
+R4
+R24
+DXx4 work 15 miriscv_lsu_pkg 0 22 ^llSeUNV`Efd39B:@O9lV0
+R5
+r1
+!s85 0
+31
+!i10b 1
+!s100 TX8c_[cm@n]AiXe8CCSj93
+IW0AlzXQj;Y0KX;O2f;HSC0
+!s105 miriscv_lsu_sv_unit
+S1
+R6
+w1652510566
+8C:/Users/Olmer/Documents/miriscv/rtl/miriscv_lsu.sv
+FC:/Users/Olmer/Documents/miriscv/rtl/miriscv_lsu.sv
+R26
+R9
+Z34 !s108 1669446825.000000
+!s107 C:/Users/Olmer/Documents/miriscv/rtl/miriscv_lsu.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/Olmer/Documents/miriscv/rtl/miriscv_lsu.sv|
+!i113 0
+R11
+R2
+Xmiriscv_lsu_pkg
+R4
+V^llSeUNV`Efd39B:@O9lV0
+r1
+!s85 0
+31
+!i10b 1
+!s100 PUAd64NQXG?`GE]icHVQn3
+I^llSeUNV`Efd39B:@O9lV0
+S1
+R6
+R7
+8C:/Users/Olmer/Documents/miriscv/rtl/include/miriscv_lsu_pkg.sv
+FC:/Users/Olmer/Documents/miriscv/rtl/include/miriscv_lsu_pkg.sv
+R26
+R9
+R27
+!s107 C:/Users/Olmer/Documents/miriscv/rtl/include/miriscv_lsu_pkg.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/Olmer/Documents/miriscv/rtl/include/miriscv_lsu_pkg.sv|
+!i113 0
+R11
+R2
+vmiriscv_mdu
+R4
+R24
+R33
+R5
+r1
+!s85 0
+31
+!i10b 1
+!s100 G1Clc<mLV:=H:Z[=gC=dP3
+I0H[5J^:;I2j=H;]QI>MeD1
+!s105 miriscv_mdu_sv_unit
+S1
+R6
+R7
+8C:/Users/Olmer/Documents/miriscv/rtl/miriscv_mdu.sv
+FC:/Users/Olmer/Documents/miriscv/rtl/miriscv_mdu.sv
+R26
+R9
+R34
+!s107 C:/Users/Olmer/Documents/miriscv/rtl/miriscv_mdu.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/Olmer/Documents/miriscv/rtl/miriscv_mdu.sv|
+!i113 0
+R11
+R2
+Xmiriscv_mdu_pkg
+R4
+Vjf6J0Tnmz0Jzz4fIf^;Tg0
+r1
+!s85 0
+31
+!i10b 1
+!s100 efQYzf`[AL`583AjP9[VS1
+Ijf6J0Tnmz0Jzz4fIf^;Tg0
+S1
+R6
+R7
+8C:/Users/Olmer/Documents/miriscv/rtl/include/miriscv_mdu_pkg.sv
+FC:/Users/Olmer/Documents/miriscv/rtl/include/miriscv_mdu_pkg.sv
+R26
+R9
+R27
+!s107 C:/Users/Olmer/Documents/miriscv/rtl/include/miriscv_mdu_pkg.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/Olmer/Documents/miriscv/rtl/include/miriscv_mdu_pkg.sv|
+!i113 0
+R11
+R2
+Xmiriscv_opcodes_pkg
+R4
+V0nF1jM@1=S9<gJ>`>ADEW0
+r1
+!s85 0
+31
+!i10b 1
+!s100 ^2`e:V]j^:Pe^TK`<mAJB3
+I0nF1jM@1=S9<gJ>`>ADEW0
+S1
+R6
+R7
+8C:/Users/Olmer/Documents/miriscv/rtl/include/miriscv_opcodes_pkg.sv
+FC:/Users/Olmer/Documents/miriscv/rtl/include/miriscv_opcodes_pkg.sv
+R29
+R9
+R27
+!s107 C:/Users/Olmer/Documents/miriscv/rtl/include/miriscv_opcodes_pkg.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/Olmer/Documents/miriscv/rtl/include/miriscv_opcodes_pkg.sv|
+!i113 0
+R11
+R2
+Xmiriscv_pkg
+R4
+VY@S>?l^2bS>B5[WUzBSIZ1
+r1
+!s85 0
+31
+!i10b 1
+!s100 mOMVAdzJ^27LGiGaF2iQc3
+IY@S>?l^2bS>B5[WUzBSIZ1
+S1
+R6
+R7
+8C:/Users/Olmer/Documents/miriscv/rtl/include/miriscv_pkg.sv
+FC:/Users/Olmer/Documents/miriscv/rtl/include/miriscv_pkg.sv
+R26
+R9
+R27
+!s107 C:/Users/Olmer/Documents/miriscv/rtl/include/miriscv_pkg.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/Olmer/Documents/miriscv/rtl/include/miriscv_pkg.sv|
+!i113 0
+R11
+R2
+vmiriscv_ram
+R4
+R5
+r1
+!s85 0
+31
+!i10b 1
+!s100 Q0Y6VB9VBQoNF;m1HB@bf1
+IS@MzaZ`Vl`MgTU;DKc_gW0
+!s105 miriscv_ram_sv_unit
+S1
+R6
+w1669442321
+8C:/Users/Olmer/Documents/miriscv/testsoc/miriscv_ram.sv
+FC:/Users/Olmer/Documents/miriscv/testsoc/miriscv_ram.sv
+L0 3
+R9
+R19
+!s107 C:/Users/Olmer/Documents/miriscv/testsoc/miriscv_ram.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/Olmer/Documents/miriscv/testsoc/miriscv_ram.sv|
+!i113 0
+R11
+R2
+vmiriscv_rvfi_controller
+R4
+R24
+R28
+R31
+!s110 1669446825
+!i10b 1
+!s100 XSZWVjcj;<fQHX00e>lP82
+I5ClNzL__Wo5Emn_N?Y[YE0
+R5
+!s105 miriscv_rvfi_controller_sv_unit
+S1
+R6
+R7
+8C:/Users/Olmer/Documents/miriscv/rtl/miriscv_rvfi_controller.sv
+FC:/Users/Olmer/Documents/miriscv/rtl/miriscv_rvfi_controller.sv
+R26
+R9
+r1
+!s85 0
+31
+R34
+!s107 C:/Users/Olmer/Documents/miriscv/rtl/miriscv_rvfi_controller.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/Olmer/Documents/miriscv/rtl/miriscv_rvfi_controller.sv|
+!i113 0
+R11
+R2
+vmiriscv_signextend
+R4
+R5
+r1
+!s85 0
+31
+!i10b 1
+!s100 8W6>`Z8`HfU0ZLZBjo@nR1
+IT?GT`nVSR_<N9naGGSKz11
+!s105 miriscv_signextend_sv_unit
+S1
+R6
+R7
+8C:/Users/Olmer/Documents/miriscv/rtl/miriscv_signextend.sv
+FC:/Users/Olmer/Documents/miriscv/rtl/miriscv_signextend.sv
+R26
+R9
+R34
+!s107 C:/Users/Olmer/Documents/miriscv/rtl/miriscv_signextend.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/Olmer/Documents/miriscv/rtl/miriscv_signextend.sv|
+!i113 0
+R11
+R2
+vmiriscv_test_soc
+R4
+R24
+R5
+r1
+!s85 0
+31
+!i10b 1
+!s100 hJ]_`UPik4@2Ed[<YklOn1
+IVP0;D4Lmn?NDaCY`[a=Aa0
+!s105 miriscv_test_soc_sv_unit
+S1
+R6
+w1652510407
+8C:/Users/Olmer/Documents/miriscv/testsoc/miriscv_test_soc.sv
+FC:/Users/Olmer/Documents/miriscv/testsoc/miriscv_test_soc.sv
+L0 3
+R9
+R19
+!s107 C:/Users/Olmer/Documents/miriscv/testsoc/miriscv_test_soc.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/Olmer/Documents/miriscv/testsoc/miriscv_test_soc.sv|
+!i113 0
+R11
+R2
+Eslib_clock_div
+R7
+R12
+R13
+R14
+R6
+Z35 8C:/Users/Olmer/Documents/miriscv/testsoc/apb_uart/slib_clock_div.vhd
+Z36 FC:/Users/Olmer/Documents/miriscv/testsoc/apb_uart/slib_clock_div.vhd
+l0
+L29
+V4kG3CN?jG;QY1WBn`Q=?d0
+!s100 MMkNn?B9nbLjZnd>l93X82
+R17
+32
+R18
+!i10b 1
+R10
+Z37 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/Olmer/Documents/miriscv/testsoc/apb_uart/slib_clock_div.vhd|
+Z38 !s107 C:/Users/Olmer/Documents/miriscv/testsoc/apb_uart/slib_clock_div.vhd|
+!i113 0
+R22
+R23
+Artl
+R12
+R13
+R14
+DEx4 work 14 slib_clock_div 0 22 4kG3CN?jG;QY1WBn`Q=?d0
+32
+R18
+l46
+L41
+V]aM6j0MfAZ=D;SeENiNgG2
+!s100 YF:Dc4oj6j=J>bc7NA0SA3
+R17
+!i10b 1
+R10
+R37
+R38
+!i113 0
+R22
+R23
+Eslib_counter
+R7
+R12
+R13
+R14
+R6
+Z39 8C:/Users/Olmer/Documents/miriscv/testsoc/apb_uart/slib_counter.vhd
+Z40 FC:/Users/Olmer/Documents/miriscv/testsoc/apb_uart/slib_counter.vhd
+l0
+L29
+VLIB]B1]YBFRS2oZ:76P>41
+!s100 ZaUbW]WbFM?Yo1InA2Q_M1
+R17
+32
+R18
+!i10b 1
+R10
+Z41 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/Olmer/Documents/miriscv/testsoc/apb_uart/slib_counter.vhd|
+Z42 !s107 C:/Users/Olmer/Documents/miriscv/testsoc/apb_uart/slib_counter.vhd|
+!i113 0
+R22
+R23
+Artl
+R12
+R13
+R14
+DEx4 work 12 slib_counter 0 22 LIB]B1]YBFRS2oZ:76P>41
+32
+R18
+l48
+L46
+V@28K>[P<ej9gA`AWGZ24o1
+!s100 Dli>`VD:Bf]Jlh@Z9J[zj3
+R17
+!i10b 1
+R10
+R41
+R42
+!i113 0
+R22
+R23
+Eslib_edge_detect
+R7
+R12
+R13
+R14
+R6
+Z43 8C:/Users/Olmer/Documents/miriscv/testsoc/apb_uart/slib_edge_detect.vhd
+Z44 FC:/Users/Olmer/Documents/miriscv/testsoc/apb_uart/slib_edge_detect.vhd
+l0
+L28
+V]4<5<9>Ac9;PM0coQLnB23
+!s100 R95d@G3W<A8B69ZP?bA@o0
+R17
+32
+R18
+!i10b 1
+R10
+Z45 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/Olmer/Documents/miriscv/testsoc/apb_uart/slib_edge_detect.vhd|
+Z46 !s107 C:/Users/Olmer/Documents/miriscv/testsoc/apb_uart/slib_edge_detect.vhd|
+!i113 0
+R22
+R23
+Artl
+R12
+R13
+R14
+DEx4 work 16 slib_edge_detect 0 22 ]4<5<9>Ac9;PM0coQLnB23
+32
+R18
+l40
+L38
+VoV@?bGFTD`ZmFd3=bPf7:3
+!s100 zca8=CdW7ELi2YILHW3zg3
+R17
+!i10b 1
+R10
+R45
+R46
+!i113 0
+R22
+R23
+Eslib_fifo
+R7
+R12
+R13
+R14
+R6
+Z47 8C:/Users/Olmer/Documents/miriscv/testsoc/apb_uart/slib_fifo.vhd
+Z48 FC:/Users/Olmer/Documents/miriscv/testsoc/apb_uart/slib_fifo.vhd
+l0
+L29
+VBDh0R>kHk45OX=6hK>Q>]2
+!s100 VM:U`coZh[>kYdWJz<F`@1
+R17
+32
+R18
+!i10b 1
+R10
+Z49 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/Olmer/Documents/miriscv/testsoc/apb_uart/slib_fifo.vhd|
+Z50 !s107 C:/Users/Olmer/Documents/miriscv/testsoc/apb_uart/slib_fifo.vhd|
+!i113 0
+R22
+R23
+Artl
+R12
+R13
+R14
+DEx4 work 9 slib_fifo 0 22 BDh0R>kHk45OX=6hK>Q>]2
+32
+R18
+l59
+L48
+ViI66kk^0;<ZI]Y]@cHgJ31
+!s100 UFJ@J<aa_NCz`e:0ACB4M2
+R17
+!i10b 1
+R10
+R49
+R50
+!i113 0
+R22
+R23
+Eslib_input_filter
+R7
+R12
+R13
+R14
+R6
+Z51 8C:/Users/Olmer/Documents/miriscv/testsoc/apb_uart/slib_input_filter.vhd
+Z52 FC:/Users/Olmer/Documents/miriscv/testsoc/apb_uart/slib_input_filter.vhd
+l0
+L28
+VbzSXSCoBcahcob_[ni4[z2
+!s100 >oNX^fWhdS@iN^<F0e_fi3
+R17
+32
+R18
+!i10b 1
+R10
+Z53 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/Olmer/Documents/miriscv/testsoc/apb_uart/slib_input_filter.vhd|
+Z54 !s107 C:/Users/Olmer/Documents/miriscv/testsoc/apb_uart/slib_input_filter.vhd|
+!i113 0
+R22
+R23
+Artl
+R12
+R13
+R14
+DEx4 work 17 slib_input_filter 0 22 bzSXSCoBcahcob_[ni4[z2
+32
+R18
+l43
+L41
+Vd`dDZCSa@e:^zBV`LPfW02
+!s100 Y;lMD:fXnoRA]^V5X8Ohf3
+R17
+!i10b 1
+R10
+R53
+R54
+!i113 0
+R22
+R23
+Eslib_input_sync
+R7
+R12
+R13
+R14
+R6
+Z55 8C:/Users/Olmer/Documents/miriscv/testsoc/apb_uart/slib_input_sync.vhd
+Z56 FC:/Users/Olmer/Documents/miriscv/testsoc/apb_uart/slib_input_sync.vhd
+l0
+L28
+VSoE9^B60H@zMdfflEG4mb0
+!s100 D3`NbI_2J0?NN6WcaYI2n0
+R17
+32
+R18
+!i10b 1
+R10
+Z57 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/Olmer/Documents/miriscv/testsoc/apb_uart/slib_input_sync.vhd|
+Z58 !s107 C:/Users/Olmer/Documents/miriscv/testsoc/apb_uart/slib_input_sync.vhd|
+!i113 0
+R22
+R23
+Artl
+R12
+R13
+R14
+DEx4 work 15 slib_input_sync 0 22 SoE9^B60H@zMdfflEG4mb0
+32
+R18
+l39
+L37
+Vkc^S=kd]T`?nIKOMIdX>J2
+!s100 5Mn]]?nUOQZHMNG2zizGa3
+R17
+!i10b 1
+R10
+R57
+R58
+!i113 0
+R22
+R23
+Eslib_mv_filter
+R7
+R12
+R13
+R14
+R6
+Z59 8C:/Users/Olmer/Documents/miriscv/testsoc/apb_uart/slib_mv_filter.vhd
+Z60 FC:/Users/Olmer/Documents/miriscv/testsoc/apb_uart/slib_mv_filter.vhd
+l0
+L29
+VdMNRMSg^RgR13YXLJAEQT3
+!s100 Y68Tlh21jam^^_XODK@540
+R17
+32
+R18
+!i10b 1
+R10
+Z61 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/Olmer/Documents/miriscv/testsoc/apb_uart/slib_mv_filter.vhd|
+Z62 !s107 C:/Users/Olmer/Documents/miriscv/testsoc/apb_uart/slib_mv_filter.vhd|
+!i113 0
+R22
+R23
+Artl
+R12
+R13
+R14
+DEx4 work 14 slib_mv_filter 0 22 dMNRMSg^RgR13YXLJAEQT3
+32
+R18
+l50
+L44
+VZb=9EFJ<1f;M_VSi=Yzi`1
+!s100 0CZRK`7GXHlk==]S3inY?0
+R17
+!i10b 1
+R10
+R61
+R62
+!i113 0
+R22
+R23
+vtb_miriscv_test_soc
+R4
+R24
+R5
+r1
+!s85 0
+31
+!i10b 1
+!s100 oTN;d@VCGZMAc<4UKj@7U1
+I@k1]8`GzZSWQdXRGn5PkC0
+!s105 tb_mirscv_test_soc_sv_unit
+S1
+R6
+w1669442906
+8C:/Users/Olmer/Documents/miriscv/tb/tb_mirscv_test_soc.sv
+FC:/Users/Olmer/Documents/miriscv/tb/tb_mirscv_test_soc.sv
+L0 8
+R9
+R19
+!s107 C:/Users/Olmer/Documents/miriscv/tb/tb_mirscv_test_soc.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/Olmer/Documents/miriscv/tb/tb_mirscv_test_soc.sv|
+!i113 0
+R11
+R2
+vtimer
+R4
+R5
+r1
+!s85 0
+31
+!i10b 1
+!s100 =iVoAQ53jd9FBf28M;L4A0
+ISz:bcKnVnM6TQ4GFG?lgj2
+!s105 timer_sv_unit
+S1
+R6
+R7
+8C:/Users/Olmer/Documents/miriscv/testsoc/apb_timer/timer.sv
+FC:/Users/Olmer/Documents/miriscv/testsoc/apb_timer/timer.sv
+R29
+R9
+R10
+!s107 C:/Users/Olmer/Documents/miriscv/testsoc/apb_timer/timer.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/Olmer/Documents/miriscv/testsoc/apb_timer/timer.sv|
+!i113 0
+R11
+R2
+Euart_baudgen
+R7
+R12
+R13
+R14
+R6
+Z63 8C:/Users/Olmer/Documents/miriscv/testsoc/apb_uart/uart_baudgen.vhd
+Z64 FC:/Users/Olmer/Documents/miriscv/testsoc/apb_uart/uart_baudgen.vhd
+l0
+L29
+Va;;o>gB75QM4nKHiIWS=91
+!s100 nMkhmIiXVBbOz3OzGgdVm0
+R17
+32
+R18
+!i10b 1
+R10
+Z65 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/Olmer/Documents/miriscv/testsoc/apb_uart/uart_baudgen.vhd|
+Z66 !s107 C:/Users/Olmer/Documents/miriscv/testsoc/apb_uart/uart_baudgen.vhd|
+!i113 0
+R22
+R23
+Artl
+R12
+R13
+R14
+DEx4 work 12 uart_baudgen 0 22 a;;o>gB75QM4nKHiIWS=91
+32
+R18
+l43
+L40
+VC2=Pk=dkMXSTUHgQ3<k]B1
+!s100 CNKlD>d;?_?0HJL@`ozP63
+R17
+!i10b 1
+R10
+R65
+R66
+!i113 0
+R22
+R23
+Euart_interrupt
+R7
+R12
+R13
+R14
+R6
+Z67 8C:/Users/Olmer/Documents/miriscv/testsoc/apb_uart/uart_interrupt.vhd
+Z68 FC:/Users/Olmer/Documents/miriscv/testsoc/apb_uart/uart_interrupt.vhd
+l0
+L33
+VO]L1eh]McPgJ>zf`Q;UZi3
+!s100 P4V24=T6mZkdM4zzS<Rl40
+R17
+32
+R18
+!i10b 1
+R10
+Z69 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/Olmer/Documents/miriscv/testsoc/apb_uart/uart_interrupt.vhd|
+Z70 !s107 C:/Users/Olmer/Documents/miriscv/testsoc/apb_uart/uart_interrupt.vhd|
+!i113 0
+R22
+R23
+Artl
+R12
+R13
+R14
+DEx4 work 14 uart_interrupt 0 22 O]L1eh]McPgJ>zf`Q;UZi3
+32
+R18
+l57
+L49
+VENCAJ`8z?Z`FON<QaMCe71
+!s100 1=VgQ=fn>Yf1QWSVHDb3@1
+R17
+!i10b 1
+R10
+R69
+R70
+!i113 0
+R22
+R23
+Euart_receiver
+R7
+R12
+R13
+R14
+R6
+Z71 8C:/Users/Olmer/Documents/miriscv/testsoc/apb_uart/uart_receiver.vhd
+Z72 FC:/Users/Olmer/Documents/miriscv/testsoc/apb_uart/uart_receiver.vhd
+l0
+L29
+VUCEHP`2h[VVXIfZzi[jbK2
+!s100 WfDS6;?IjEa1K>Se7AT4E1
+R17
+32
+R18
+!i10b 1
+R10
+Z73 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/Olmer/Documents/miriscv/testsoc/apb_uart/uart_receiver.vhd|
+Z74 !s107 C:/Users/Olmer/Documents/miriscv/testsoc/apb_uart/uart_receiver.vhd|
+!i113 0
+R22
+R23
+Artl
+R12
+R13
+R14
+DEx4 work 13 uart_receiver 0 22 UCEHP`2h[VVXIfZzi[jbK2
+32
+R18
+l119
+L49
+V5OYl]WoaIj^Gd25UkKR0D1
+!s100 l3kozC8]YB9Ym]b]55N5=3
+R17
+!i10b 1
+R10
+R73
+R74
+!i113 0
+R22
+R23
+Euart_transmitter
+R7
+R12
+R13
+R14
+R6
+Z75 8C:/Users/Olmer/Documents/miriscv/testsoc/apb_uart/uart_transmitter.vhd
+Z76 FC:/Users/Olmer/Documents/miriscv/testsoc/apb_uart/uart_transmitter.vhd
+l0
+L29
+VUk5?[ifcO>LjY3`=2a8Hj2
+!s100 [bY7QcS9BaHbk36dfUIl11
+R17
+32
+R18
+!i10b 1
+R10
+Z77 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/Olmer/Documents/miriscv/testsoc/apb_uart/uart_transmitter.vhd|
+Z78 !s107 C:/Users/Olmer/Documents/miriscv/testsoc/apb_uart/uart_transmitter.vhd|
+!i113 0
+R22
+R23
+Artl
+R12
+R13
+R14
+DEx4 work 16 uart_transmitter 0 22 Uk5?[ifcO>LjY3`=2a8Hj2
+32
+R18
+l59
+L48
+V`CNF0B7OZ_9HGhm16Co6B2
+!s100 iDLOH401Gh`Z93=AHle:`2
+R17
+!i10b 1
+R10
+R77
+R78
+!i113 0
+R22
+R23
