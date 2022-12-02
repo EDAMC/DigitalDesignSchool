@@ -3,7 +3,8 @@
 DigitalDesignSchool2022/23
 
 **В данном репозитории будут выкладываться презентации и лабораторные работы в том порядке, в котором они идут в курсе 22/23 года.**
-**Общий каталог лабораторных работ на Я.Диске: https://disk.yandex.ru/d/tdTtazrW10ECXw**
++ **Общий каталог лабораторных работ на Я.Диске: https://disk.yandex.ru/d/tdTtazrW10ECXw**
++ **Видео-лекции по каждому занятию: https://youtube.com/playlist?list=PLi3mfxNhwAi9H6biQbhc4KUoVghb1XCio**
 ____
 :white_check_mark: - **day_1**: ```Введение в маршрут проектирования и упражнения с комбинационной логикой. Testbench для комбинационной логики. 10.09.2022```.
 + Требуется установка icarus verilog версии 11.0. 
@@ -70,7 +71,8 @@ ___
 + Занятие предполагает использование ОС Linux
 + На win: Есть готовая виртуальная машина с Quartus, ModelSim, VSCode и инструкции по установке: https://disk.yandex.ru/d/CFoJ0K1WMLTnIA
 + На Linux: Необходимо установить ModelSim, VSCode с расширением TerosHDL.
-+ Установщик ModelSim последней версии : https://disk.yandex.ru/d/zuN-mJTungHEDg
++ Установщик ModelSim для win/linux последней версии : https://disk.yandex.ru/d/zuN-mJTungHEDg
++ Установка ModelSim на Linux:
     * Для корректной работы ModelSim необходимо установить следующие библиотеки:
 
         ```bash
@@ -89,8 +91,44 @@ ___
 :white_check_mark: -**day_10**: 
 ```Операции с плавающей точкой. Буферы FIFO. 19.11.2022```
 ___
-:black_square_button: -**day_11**: 
+:white_check_mark: -**day_11**: 
 ```Конвейерные процессоры. 26.11.2022```
+Для занятия необходим симулятор ModelSim
++ Установщик ModelSim для win/linux последней версии : https://disk.yandex.ru/d/zuN-mJTungHEDg
++ Установка ModelSim на Linux:
+    * Для корректной работы ModelSim необходимо установить следующие библиотеки:
+
+        ```bash
+        sudo dpkg --add-architecture i386
+        sudo apt update
+        sudo apt-get --yes install libc6:i386 libncurses5:i386 libxtst6:i386 libxft2:i386 libc6:i386 libncurses5:i386 libstdc++6:i386
+        ```
+    * Запуск установки в папке с дистрибутивом .run производится так:
+
+        ```bash
+        sudo chmod +x ./*.run
+        ./*.run
+        ```
+___
+:black_square_button: -**day_12**: 
+```Проектирование процессорного кэша и измерение его производительности. 02.12.2022```
+```Конвейерные процессоры. 26.11.2022```
+Для занятия необходим симулятор ModelSim
++ Установщик ModelSim для win/linux последней версии : https://disk.yandex.ru/d/zuN-mJTungHEDg
++ Установка ModelSim на Linux:
+    * Для корректной работы ModelSim необходимо установить следующие библиотеки:
+
+        ```bash
+        sudo dpkg --add-architecture i386
+        sudo apt update
+        sudo apt-get --yes install libc6:i386 libncurses5:i386 libxtst6:i386 libxft2:i386 libc6:i386 libncurses5:i386 libstdc++6:i386
+        ```
+    * Запуск установки в папке с дистрибутивом .run производится так:
+
+        ```bash
+        sudo chmod +x ./*.run
+        ./*.run
+        ```
 
 
 
