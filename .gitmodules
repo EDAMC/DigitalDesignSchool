@@ -1,0 +1,3 @@
+[submodule "day_12/schoolRISCV_ICache"]
+	path = day_12/schoolRISCV_ICache
+	url = https://github.com/NickolayTernovoy/schoolRISCV_ICache
